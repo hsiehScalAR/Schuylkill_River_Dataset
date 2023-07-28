@@ -8,7 +8,7 @@ There are four trials included along with a simple script for loading the data, 
 
 To cite this data set please use the following two citations:
 
-'''
+```
 @INPROCEEDINGS{Li22,
   author={Li, Alice K. and Mao, Yue and Manjanna, Sandeep and Liu, Sixuan and Dhanoa, Jasleen and Mehta, Bharg and Edwards, Victoria and Ojeda, Fernando Cladera and Hsieh, M. Ani and Men, Maël Le and Sigg, Erig and Jerolmack, Douglas J. and Ulloa, Hugo N.},
   booktitle={OCEANS 2022, Hampton Roads}, 
@@ -20,15 +20,14 @@ To cite this data set please use the following two citations:
   doi={10.1109/OCEANS47191.2022.9977236},
   project={river}}
 
-'''
-'''
+```
+```
 @INPROCEEDINS{Edwards23,
 author={Edwards, Victoria, Silva, Thales C., Mehta, Bharg, Dhanoa, Jasleen, Hsieh, M. Ani},
 booktitle={To appear in the International Conference on Intelligent Robots and Systems},
 year={2023},
 }
-'''
-
+```
 
 
 
