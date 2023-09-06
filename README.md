@@ -17,13 +17,13 @@ To cite this data set please use the following two citations:
   volume={},
   number={},
   pages={1-8},
-  doi={10.1109/OCEANS47191.2022.9977236},
-  project={river}}
+  doi={10.1109/OCEANS47191.2022.9977236}}
 
 ```
 ```
 @INPROCEEDINS{Edwards23,
 author={Edwards, Victoria, Silva, Thales C., Mehta, Bharg, Dhanoa, Jasleen, Hsieh, M. Ani},
+title={On Collaborative Robot Teams for Environmental Monitoring: A Macroscopic Approach},
 booktitle={To appear in the International Conference on Intelligent Robots and Systems},
 year={2023},
 }
